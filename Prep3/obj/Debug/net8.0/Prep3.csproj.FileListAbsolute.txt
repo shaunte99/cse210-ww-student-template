@@ -1,0 +1,5 @@
+C:\Users\nomce\OneDrive\Desktop\CSE 210\cse210-ww-student-template\csharp-prep\Prep3\obj\Debug\net8.0\Prep3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nomce\OneDrive\Desktop\CSE 210\cse210-ww-student-template\csharp-prep\Prep3\obj\Debug\net8.0\Prep3.AssemblyInfoInputs.cache
+C:\Users\nomce\OneDrive\Desktop\CSE 210\cse210-ww-student-template\csharp-prep\Prep3\obj\Debug\net8.0\Prep3.AssemblyInfo.cs
+C:\Users\nomce\OneDrive\Desktop\CSE 210\cse210-ww-student-template\csharp-prep\Prep3\obj\Debug\net8.0\Prep3.csproj.CoreCompileInputs.cache
+C:\Users\nomce\OneDrive\Desktop\CSE 210\cse210-ww-student-template\csharp-prep\Prep3\obj\Debug\net8.0\Prep3.sourcelink.json
