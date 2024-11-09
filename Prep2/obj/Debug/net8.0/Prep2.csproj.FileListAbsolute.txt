@@ -1,0 +1,15 @@
+C:\Users\nomce\OneDrive\Desktop\CSE 210\cse210-ww-student-template\csharp-prep\Prep2\obj\Debug\net8.0\Prep2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nomce\OneDrive\Desktop\CSE 210\cse210-ww-student-template\csharp-prep\Prep2\obj\Debug\net8.0\Prep2.AssemblyInfoInputs.cache
+C:\Users\nomce\OneDrive\Desktop\CSE 210\cse210-ww-student-template\csharp-prep\Prep2\obj\Debug\net8.0\Prep2.AssemblyInfo.cs
+C:\Users\nomce\OneDrive\Desktop\CSE 210\cse210-ww-student-template\csharp-prep\Prep2\obj\Debug\net8.0\Prep2.csproj.CoreCompileInputs.cache
+C:\Users\nomce\OneDrive\Desktop\CSE 210\cse210-ww-student-template\csharp-prep\Prep2\obj\Debug\net8.0\Prep2.sourcelink.json
+C:\Users\nomce\OneDrive\Desktop\CSE 210\cse210-ww-student-template\csharp-prep\Prep2\bin\Debug\net8.0\Prep2.exe
+C:\Users\nomce\OneDrive\Desktop\CSE 210\cse210-ww-student-template\csharp-prep\Prep2\bin\Debug\net8.0\Prep2.deps.json
+C:\Users\nomce\OneDrive\Desktop\CSE 210\cse210-ww-student-template\csharp-prep\Prep2\bin\Debug\net8.0\Prep2.runtimeconfig.json
+C:\Users\nomce\OneDrive\Desktop\CSE 210\cse210-ww-student-template\csharp-prep\Prep2\bin\Debug\net8.0\Prep2.dll
+C:\Users\nomce\OneDrive\Desktop\CSE 210\cse210-ww-student-template\csharp-prep\Prep2\bin\Debug\net8.0\Prep2.pdb
+C:\Users\nomce\OneDrive\Desktop\CSE 210\cse210-ww-student-template\csharp-prep\Prep2\obj\Debug\net8.0\Prep2.dll
+C:\Users\nomce\OneDrive\Desktop\CSE 210\cse210-ww-student-template\csharp-prep\Prep2\obj\Debug\net8.0\refint\Prep2.dll
+C:\Users\nomce\OneDrive\Desktop\CSE 210\cse210-ww-student-template\csharp-prep\Prep2\obj\Debug\net8.0\Prep2.pdb
+C:\Users\nomce\OneDrive\Desktop\CSE 210\cse210-ww-student-template\csharp-prep\Prep2\obj\Debug\net8.0\Prep2.genruntimeconfig.cache
+C:\Users\nomce\OneDrive\Desktop\CSE 210\cse210-ww-student-template\csharp-prep\Prep2\obj\Debug\net8.0\ref\Prep2.dll
